@@ -1,2 +1,4 @@
 # Cases-study-Brighttutorial
 Case study 
+
+https://miro.com/welcomeonboard/Y2ZOZk5sK041NnkrZVhjdTdZSE1WTFcxc2Z6cldJSy9ySUhCTWhJSFFCOW5nR05QVlU5dUJ0ODRMN3Z5MjBaVWFrekdPZmlERExBWUVoNzI5L1JUY1lpdkg1RmUvZ3FETHBydHk2RzNIMzdGWFpnWXJPcDMyYmt2ejVpN3ZtY1NBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=468711662902
