@@ -1,4 +1,5 @@
-Bright Coffee Shop Sales Analysis: Case Study Summary
+Bright Coffee Shop Sales Analysis
+Case Study Summary
 This document summarizes the findings of a 6-month sales analysis conducted for Bright Coffee Shop (January 2023 - June 2023) across its three locations: Manhattan, Hell's Kitchen, and Astoria. The analysis was initiated due to a concerning sales decline from April to June 2023, leading to revenue loss, employee layoffs, and product discontinuation. A new CEO appointed a data-driven rescue mission, leveraging data analysis to understand performance and inform strategic decisions.
 1. Project Overview & Methodology
 The project aimed to understand daily performance per location and identify peak product performance times. The following steps were taken:
